@@ -1,16 +1,69 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sannnsinnnsunnn/sannnsinnnsunnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# sannsinnsunn
+### building things • breaking things • learning everything
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub;I+love+building+cool+stuff;Always+learning+new+things" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🧠 About Me
+- 🔭 Working on random cool projects  
+- 🌱 Currently learning everything I find interesting  
+- ⚡ I like automation & building tools  
+- 🎯 Focus: Clean & useful projects  
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![NodeJS](https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=node.js)
+![VSCode](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visual-studio-code)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sannsinnsunn&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sannsinnsunn&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=sannsinnsunn&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- 🔹 cool-project — something useful  
+- 🔹 automation-tool — saves time  
+- 🔹 experimental-ai — just testing ideas  
+
+---
+
+## 🌍 Connect
+
+- GitHub: https://github.com/sannsinnsunn
+
+---
+
+<div align="center">
+
+### "just build it."
+
+</div>
