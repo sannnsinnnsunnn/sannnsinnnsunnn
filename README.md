@@ -9,15 +9,15 @@
 
 ---
 
-## 🧠 About Me
-- 🔭 Working on random cool projects  
-- 🌱 Currently learning everything I find interesting  
-- ⚡ I like automation & building tools  
-- 🎯 Focus: Clean & useful projects  
+##  About Me
+-  Working on random cool projects  
+-  Currently learning everything I find interesting  
+-  I like automation & building tools  
+-  Focus: Clean & useful projects  
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
@@ -29,30 +29,12 @@
 ![NodeJS](https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=node.js)
 ![VSCode](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visual-studio-code)
 
----
 
-## 📊 GitHub Stats
+##  Featured Projects
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sannsinnsunn&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sannsinnsunn&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🔥 Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=sannsinnsunn&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-- 🔹 cool-project — something useful  
-- 🔹 automation-tool — saves time  
-- 🔹 experimental-ai — just testing ideas  
+-  cool-project — something useful  
+-  automation-tool — saves time  
+-  experimental-ai — just testing ideas  
 
 ---
 
